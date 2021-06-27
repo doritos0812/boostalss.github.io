@@ -6,8 +6,8 @@ comments: false
 ---
 <style>
 .img_box {
-    width:200px; 
-    height:200px; 
+    width:150px; 
+    height:150px; 
     border-radius:70%; 
     overflow: hidden; 
     margin:10px;
@@ -23,7 +23,7 @@ comments: false
             <tr>
                 <td>
                     <a href="https://github.com/happyBeagle" title="go to github">
-                        <div style="padding: 50px;">
+                        <div style="padding: 30px;">
                             <div class="img_box">
                                 <img src="https://avatars.githubusercontent.com/u/68745983?v=4" style="object-fit: cover;">
                             </div>
@@ -33,7 +33,7 @@ comments: false
                 </td>
                 <td>
                     <a href="https://github.com/wonbae" title="go to github">
-                        <div style="padding: 50px;">
+                        <div style="padding: 30px;">
                             <div class="img_box">
                                 <img src="https://avatars.githubusercontent.com/u/15380545?v=4" style="object-fit: cover;">
                             </div>
@@ -43,7 +43,7 @@ comments: false
                 </td>
                 <td>
                     <a href="https://github.com/gihop" title="go to github">
-                        <div style="padding: 50px;">
+                        <div style="padding: 30px;">
                             <div class="img_box">
                                 <img src="https://avatars.githubusercontent.com/u/34030303?v=4" style="object-fit: cover;">
                             </div>
@@ -53,7 +53,7 @@ comments: false
                 </td>
                 <td>
                     <a href="https://github.com/iloveslowfood" title="go to github">
-                        <div style="padding: 50px;">
+                        <div style="padding: 30px;">
                             <div class="img_box">
                                 <img src="https://avatars.githubusercontent.com/u/48649606?v=4" style="object-fit: cover;">
                             </div>
@@ -63,7 +63,7 @@ comments: false
                 </td>
                 <td>
                     <a href="https://github.com/jayten-jeon" title="go to github">
-                        <div style="padding: 50px;">
+                        <div style="padding: 30px;">
                             <div class="img_box">
                                 <img src="https://avatars.githubusercontent.com/u/57934461?v=4" style="object-fit: cover;">
                             </div>
@@ -73,11 +73,11 @@ comments: false
                 </td>
                 <td>
                     <a href="https://github.com/doritos0812" title="go to github">
-                        <div style="padding: 50px;">
+                        <div style="padding: 30px;">
                             <div class="img_box">
                                 <img src="https://avatars.githubusercontent.com/u/62870428?v=4" style="object-fit: cover;">
                             </div>
-                            <h4 style="text-align: center; padding-top:10px;color:black;">민달팽이</h4>
+                            <h4 style="text-align: center; padding-top:10px;color:black;">H_MiNi</h4>
                         </div>
                     </a>
                 </td>
@@ -85,7 +85,7 @@ comments: false
             <tr>
                 <td>
                     <a href="https://github.com/soupbab" title="go to github">
-                        <div style="padding: 50px;">
+                        <div style="padding: 30px;">
                             <div class="img_box">
                                 <img src="https://avatars.githubusercontent.com/u/67000572?v=4" style="object-fit: cover;">
                             </div>
@@ -95,7 +95,7 @@ comments: false
                 </td>
                 <td>
                     <a href="https://github.com/yskim1014" title="go to github">
-                        <div style="padding: 50px;">
+                        <div style="padding: 30px;">
                             <div class="img_box">
                                 <img src="https://avatars.githubusercontent.com/u/68675162?v=4" style="object-fit: cover;">
                             </div>
@@ -105,7 +105,7 @@ comments: false
                 </td>
                 <td>
                     <a href="https://github.com/hunmin-hub" title="go to github">
-                        <div style="padding: 50px;">
+                        <div style="padding: 30px;">
                             <div class="img_box">
                                 <img src="https://avatars.githubusercontent.com/u/74880677?v=4" style="object-fit: cover;">
                             </div>
@@ -115,7 +115,7 @@ comments: false
                 </td>
                 <td>
                     <a href="https://github.com/nureesong" title="go to github">
-                        <div style="padding: 50px;">
+                        <div style="padding: 30px;">
                             <div class="img_box">
                                 <img src="https://avatars.githubusercontent.com/u/76163168?v=4" style="object-fit: cover;">
                             </div>
@@ -125,7 +125,7 @@ comments: false
                 </td>
                 <td>
                     <a href="https://github.com/Lala-chick" title="go to github">
-                        <div style="padding: 50px;">
+                        <div style="padding: 30px;">
                             <div class="img_box">
                                 <img src="https://avatars.githubusercontent.com/u/76460750?v=4" style="object-fit: cover;">
                             </div>
